@@ -1,2 +1,2 @@
 ﻿# Rocket-business
-Тестовое задание для Rocket-business, cсылка на сайт: https://byuhblu.github.io/toster-firm/ .
+Тестовое задание для Rocket-business, cсылка на сайт: https://byuhblu.github.io/.
